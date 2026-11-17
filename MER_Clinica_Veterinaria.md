@@ -5,10 +5,9 @@
 
 ### Identificação do Projeto
 - **Instituição:** SENAI — Serviço Nacional de Aprendizagem Industrial
-- **Curso:** Técnico em Desenvolvimento de Sistemas
 - **Unidade Curricular:** Banco de Dados
 - **Docente:** Prof. Tércio B. Ribeiro
-- **Data da Atividade:** 24/02/2026
+- **Data da Atividade:** 17/11/2026
 - **Especialidade da Clínica:** Atendimento a Cães e Gatos
 
 ---
@@ -285,4 +284,4 @@ REGRAS E INTEGRIDADE REFERENCIAL:
 | **Melhorar notificação aos clientes sobre data e tipo de vacina** | Relacionamento direto permitindo queries preditivas por data | Atendido |
 
 ---
-**SENAI — Unidade Curricular: Banco de Dados — 2026**
+**SENAI — 2026**
