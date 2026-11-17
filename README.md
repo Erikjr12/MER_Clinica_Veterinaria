@@ -15,10 +15,9 @@ Este repositório contém a entrega completa e documentada da **Atividade 01 - M
 O objetivo do sistema é informatizar o controle de vacinas da clínica veterinária, permitindo não apenas o registro histórico das doses administradas, mas principalmente **otimizar a notificação preventiva aos clientes** sobre a data de vencimento e o tipo de vacina a ser aplicada em seus pets.
 
 - **Instituição:** SENAI (Serviço Nacional de Aprendizagem Industrial)
-- **Curso:** Técnico em Desenvolvimento de Sistemas
 - **Unidade Curricular:** Banco de Dados
 - **Docente:** Prof. Tércio B. Ribeiro
-- **Data:** 24/02/2026
+- **Data:** 17/11/2026
 
 ---
 
