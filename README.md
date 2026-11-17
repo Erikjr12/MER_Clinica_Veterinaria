@@ -1,7 +1,7 @@
 # 🐾 Sistema de Controle de Vacinação e Notificação — Clínica Veterinária
 ### Modelagem de Banco de Dados Relacional (MER) & Script Físico DDL (T-SQL)
 
-[![SENAI](https://img.shields.io/badge/SENAI-T%C3%A9cnico%20em%20Desenvolvimento%20de%20Sistemas-blue.svg)](#)
+[![SENAI](https://img.shields.io/badge/SENAI-blue.svg)](#)
 [![Unidade Curricular](https://img.shields.io/badge/Unidade%20Curricular-Banco%20de%20Dados-green.svg)](#)
 [![SGBD](https://img.shields.io/badge/SGBD-SQL%20Server%20%7C%20T--SQL-red.svg)](#)
 [![Licença](https://img.shields.io/badge/Licen%C3%A7a-Educacional-lightgrey.svg)](#)
@@ -146,4 +146,4 @@ erDiagram
 | Elaborar MER com entidades, relacionamentos e atributos | Documentação conceitual, física e diagramas | ✅ 100% |
 
 ---
-**SENAI — Técnico em Desenvolvimento de Sistemas — 2026**
+**SENAI — 2026**
